@@ -1,12 +1,15 @@
 # Handwritten_text_recording
 recording of
 Project: identification of English handwriting with artificial intelligence
+
 Libraries Used:
 * Python 3.x
 * OpenCV 4.x
 * Editdistance
- TensorFlow 2.0
+*TensorFlow 2.0
+
 Dataset Used: Bentham: http://transcriptorium.eu/datasets/bentham-collection/
+
 Arguments from the command line:
 * - dataset: dataset name (bentham))
 * -- arch: network to use (puigcerver, bluche, fluorine)
